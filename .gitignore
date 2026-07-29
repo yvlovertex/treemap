@@ -1,0 +1,13 @@
+# Fichiers utilisateur Qt Creator
+*.user
+
+# Fichiers de build / compilation
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Exécutables générés
+*.exe
+*.out
