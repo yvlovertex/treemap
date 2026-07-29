@@ -2,7 +2,8 @@
 *.user
 
 # Fichiers de build / compilation
-build/
+.qtcreator/
+build*/
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
